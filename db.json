@@ -1340,6 +1340,33 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Paul Aiamsubhab",
+      "hp": "1000",
+      "sprites": {
+        "front": "https://beebom.com/wp-content/uploads/2023/05/Toji-main-pic.jpg?w=640",
+        "back": "https://benwinney.myshopify.com/cdn/shop/products/image2.jpg?v=1680783491"
+      },
+      "id": 151
+    },
+    {
+      "name": "Paul Aiamsubhab",
+      "hp": "1000",
+      "sprites": {
+        "front": "https://beebom.com/wp-content/uploads/2023/05/Toji-main-pic.jpg?w=640",
+        "back": "https://benwinney.myshopify.com/cdn/shop/products/image2.jpg?v=1680783491"
+      },
+      "id": 152
+    },
+    {
+      "name": "Paul Aiamsubhab",
+      "hp": "1000",
+      "sprites": {
+        "front": "https://beebom.com/wp-content/uploads/2023/05/Toji-main-pic.jpg?w=640",
+        "back": "https://benwinney.myshopify.com/cdn/shop/products/image2.jpg?v=1680783491"
+      },
+      "id": 153
     }
   ]
 }
